@@ -1,0 +1,14 @@
+# 機密情報 - 絶対にコミットしない
+.env
+.env.*
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
